@@ -2,7 +2,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
-
+hard
 KEY_CODES = {
   32: 'space',
   37: 'left',
